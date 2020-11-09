@@ -33,4 +33,5 @@ Please note that this data:
  - The Mentorship Eligibility list may be better received if mentors are be determined by experience, time with the company, interest in mentorship, etc rather than age.
 
 Please see below for a visual outline of the data. 
-![Image]https://github.com/emilymcdaniel/Pewlett-Hackard-Analysis/blob/main/QuickDBD_on_employees.PNG?raw=true
+
+![Image](https://github.com/emilymcdaniel/Pewlett-Hackard-Analysis/blob/main/QuickDBD_on_employees.PNG?raw=true) 
