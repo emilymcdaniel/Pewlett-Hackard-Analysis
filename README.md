@@ -10,7 +10,7 @@ In this analysis, the number of retiring employees per title and employees who a
 Please see the complete results by clicking the links.
 
 ### Deliverable 1
-In our review, those likely to retire in the near future - defined as those aged roughly 66-69) account for 133,776 of the staff. We have determined that among those who will likely seek retirement, they occupy 7 positions within Pewlett Hackard: 
+In our review, those likely to retire in the near future - defined as those aged roughly 66-69) account for 90,398 of the staff. We have determined that among those who will likely seek retirement, they occupy 7 positions within Pewlett Hackard: 
  - 29414	Senior Engineers
  - 28254	Senior Staffs
  - 14222	Engineers
